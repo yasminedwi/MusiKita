@@ -1,0 +1,7 @@
+{
+  "name": "EqualizerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
